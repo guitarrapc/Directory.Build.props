@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+   <NullableReferenceTypes>True</NullableReferenceTypes>
+  </PropertyGroup>
+</Project>
